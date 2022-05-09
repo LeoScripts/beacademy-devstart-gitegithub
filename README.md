@@ -8,3 +8,5 @@ a intenção e separar um serviço dos outros principalmente quando se tem um em
 - git stash --include-untracked
 - git stash list
 - git checkout -b NOMEDABRANCH
+
+[para mais comandos](https://comandosgit.github.io/)
