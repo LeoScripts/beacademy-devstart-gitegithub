@@ -1,4 +1,4 @@
-# beacademy-devstart-gitegithub
+# beacademy-devstart-gitgithub
 
 - git stash 
 - git stash pop
