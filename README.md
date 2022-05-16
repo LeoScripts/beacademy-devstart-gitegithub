@@ -7,7 +7,7 @@
 ## manipulando arquivos e commits
 - `git init` - inicia um repositório git
 - `git add "NomeDoArquivo.extensao"` - adiciona aos itens monitoraodos
-- `git clone "url do repositorio"` - Clona repositorio
+- `git clone "url do repositorio remoto"` - clona repositorio
 - `git status` - mostra o status dos arquivos
 - `git commit -m "mensagem do commit"` - salva modificaçoes feitas
 - `git log`- mostra o histórico de commits
